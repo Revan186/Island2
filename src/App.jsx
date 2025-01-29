@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import viteLogo from '../public/vite'
 import './App.css'
 import {Route, BrowserRouter as Router, Routes} from 'react-router-dom'
 import Navbar from './components/Navbar'
